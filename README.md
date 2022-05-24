@@ -1,9 +1,9 @@
 # MPFN
 There are two versions of MPFN:
 
-  1.MPFN-pytorch(3.6.0) is for GPU and CPU
+  1.MPFN_Pytorch(3.6.0) is for GPU and CPU
   
-  2.MPFN-keras(tf1.13) is converted to TFLite for mobile devices.
+  2.MPFN_keras(tf1.13) is converted to TFLite for mobile devices.
 
 # Citation
   If you use MPFN, please consider citing:
