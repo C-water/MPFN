@@ -1,4 +1,4 @@
-# MPFN
+# Constrained predictive filters for single image bokeh rendering (IEEE TCI 2022)
 There are two versions of MPFN:
 
   1.MPFN_Pytorch(3.6.0) is for GPU and CPU
